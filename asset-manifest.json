@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/materialupproject/static/css/main.e6c13ad2.css",
+    "main.js": "/materialupproject/static/js/main.b0c9c42d.js",
+    "static/js/787.5730464c.chunk.js": "/materialupproject/static/js/787.5730464c.chunk.js",
+    "static/media/food.jpg": "/materialupproject/static/media/food.7ef17f489fb065e68985.jpg",
+    "static/media/car.jpg": "/materialupproject/static/media/car.769dbf3963495c14ed4f.jpg",
+    "static/media/house.jpg": "/materialupproject/static/media/house.6fb095636e610533066d.jpg",
+    "static/media/flower.jpg": "/materialupproject/static/media/flower.0268995c822cee3abc11.jpg",
+    "static/media/christopher.jpg": "/materialupproject/static/media/christopher.82012272ff579c1634ff.jpg",
+    "index.html": "/materialupproject/index.html",
+    "main.e6c13ad2.css.map": "/materialupproject/static/css/main.e6c13ad2.css.map",
+    "main.b0c9c42d.js.map": "/materialupproject/static/js/main.b0c9c42d.js.map",
+    "787.5730464c.chunk.js.map": "/materialupproject/static/js/787.5730464c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b0c9c42d.js"
+  ]
+}
